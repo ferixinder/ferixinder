@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ferixinder&label=Profile%20views&color=b30003&style=flat" alt="ferixinder" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ferixinder" alt="ferixinder" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/ferixinder" target="blank"><img src="https://img.shields.io/twitter/follow/ferixinder?logo=twitter&style=for-the-badge" alt="ferixinder" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
